@@ -1,0 +1,43 @@
+/*Estilos para colores */
+
+.colores {
+    color: red;
+}
+
+.color-hexadecimal {
+    color: #bce784
+}
+
+.color-rgb {
+    color: rgb(100, 0, 200)
+}
+
+.color-rgba {
+    color: rgba(100, 0, 200, 0.13)
+}
+
+/* Fondos */
+
+.fondo {
+    background-color: darkcyan;
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-cielo-pastel-acuarela-pintado-mano_23-2148902771.jpg?w=2000");
+    background-position: top center;
+}
+
+/*Tamañdos*/
+.ancho {
+    background-color: #bce784;
+    width: 100px ;
+}
+
+.alto {
+    background-color: #84e4e7;
+    height: 200px ;
+}
+
+/*Tarjeta especial*/
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(20, 30, 50);
+    border-width: 1px;
+}
